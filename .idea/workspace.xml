@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c478a8f0-008e-48ff-9c9d-523b940d9fbe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2DSnN8T5GZxfN9Z7DBGI57THdiM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jwt_1/src/main/resources/templates/views/level3" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.liangjing.config" />
+      <recent name="com.liangjing.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\JavaProjects\spring_jwt\jwt_1\src\main\resources\templates\views\level3" />
+      <recent name="D:\Projects\JavaProjects\spring_jwt\jwt_1\src\main\resources\templates\views\level2" />
+      <recent name="D:\Projects\JavaProjects\spring_jwt\jwt_1\src\main\resources\templates\views\level1" />
+      <recent name="D:\Projects\JavaProjects\spring_jwt\jwt_1\src\main\resources\templates\views" />
+      <recent name="D:\Program\spring_jwt" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Jwt1Application">
+    <configuration name="Jwt2ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jwt_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liangjing.Jwt1Application" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liangjing" />
+      <option name="MAIN_CLASS_NAME" value="com.liangjing.Jwt2ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jwt2ApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jwt_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liangjing.Jwt1Application" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.liangjing" />
+      <option name="MAIN_CLASS_NAME" value="com.liangjing.Jwt2ApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jwt1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jwt_1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liangjing.Jwt1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jwt2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jwt_2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.liangjing.Jwt2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Jwt2ApplicationTests.test" />
+        <item itemvalue="JUnit.Jwt2ApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c478a8f0-008e-48ff-9c9d-523b940d9fbe" name="Default Changelist" comment="" />
+      <created>1660701311020</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660701311020</updated>
+      <workItem from="1660701314900" duration="4325000" />
+      <workItem from="1660705653866" duration="7270000" />
+      <workItem from="1660719516437" duration="1589000" />
+      <workItem from="1660721113864" duration="1184000" />
+      <workItem from="1660803877193" duration="839000" />
+      <workItem from="1660804728935" duration="144000" />
+      <workItem from="1660805006295" duration="76000" />
+      <workItem from="1660805090327" duration="469000" />
+      <workItem from="1660805624828" duration="5404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1150" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1660805173243">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1150" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1660805173243" />
+    <state x="1041" y="138" key="FileChooserDialogImpl" timestamp="1660805900352">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1041" y="138" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1660805900352" />
+    <state width="1493" height="128" key="GridCell.Tab.0.bottom" timestamp="1660817325736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1660817325736" />
+    <state width="1493" height="128" key="GridCell.Tab.0.center" timestamp="1660817325736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1660817325736" />
+    <state width="1493" height="128" key="GridCell.Tab.0.left" timestamp="1660817325735">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1660817325735" />
+    <state width="1493" height="128" key="GridCell.Tab.0.right" timestamp="1660817325736">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1660817325736" />
+    <state width="1493" height="128" key="GridCell.Tab.1.bottom" timestamp="1660817325738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1660817325738" />
+    <state width="1493" height="128" key="GridCell.Tab.1.center" timestamp="1660817325737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1660817325737" />
+    <state width="1493" height="128" key="GridCell.Tab.1.left" timestamp="1660817325737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1660817325737" />
+    <state width="1493" height="128" key="GridCell.Tab.1.right" timestamp="1660817325737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1660817325737" />
+    <state width="1493" height="128" key="GridCell.Tab.2.bottom" timestamp="1660817325740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1660817325740" />
+    <state width="1493" height="128" key="GridCell.Tab.2.center" timestamp="1660817325739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1660817325739" />
+    <state width="1493" height="128" key="GridCell.Tab.2.left" timestamp="1660817325739">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1660817325739" />
+    <state width="1493" height="128" key="GridCell.Tab.2.right" timestamp="1660817325740">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="128" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1660817325740" />
+    <state x="685" y="232" key="NewModule_or_Project.wizard" timestamp="1660805803695">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="685" y="232" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1660805803695" />
+    <state x="387" y="0" key="SettingsEditor" timestamp="1660816203689">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="387" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1660816203689" />
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1660804860980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1660804860980" />
+    <state x="587" y="95" key="spring file set editor" timestamp="1660805875787">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="587" y="95" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1660805875787" />
+  </component>
+</project>
